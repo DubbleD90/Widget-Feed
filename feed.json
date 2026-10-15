@@ -1,11 +1,16 @@
 {
- "btcPx": 81474,
+ "btcPx": 81600,
  "cronStage": "WAIT_BOS",
  "shadowStage": "WAIT_BOS",
  "openTrade": "setup: short @ 83,520",
  "ladderR": "+1.31R",
  "ratchetR": "+1.70R",
  "daily": "3W / 0L",
- "xrpPx": 1.32565,
- "xrpEstPnl": "-$299 est"
+ "xrpPx": 1.32335,
+ "xrpEstPnl": "-$314 est",
+ "recentTrades": [
+  "10/13 short @ 83,221 \u00b7 +0.15R / +0.19R",
+  "10/13 short @ 83,352 \u00b7 +0.75R / +1.11R",
+  "10/12 long @ 83,421 \u00b7 +0.41R / +0.41R"
+ ]
 }
