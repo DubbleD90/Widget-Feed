@@ -1,0 +1,11 @@
+{
+ "btcPx": 81474,
+ "cronStage": "WAIT_BOS",
+ "shadowStage": "WAIT_BOS",
+ "openTrade": "setup: short @ 83,520",
+ "ladderR": "+1.31R",
+ "ratchetR": "+1.70R",
+ "daily": "3W / 0L",
+ "xrpPx": 1.32565,
+ "xrpEstPnl": "-$299 est"
+}
