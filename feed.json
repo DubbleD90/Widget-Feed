@@ -1,13 +1,13 @@
 {
- "btcPx": 81513,
- "cronStage": "WAIT_BOS",
- "shadowStage": "WAIT_BOS",
- "openTrade": "setup: long @ 81,657",
+ "btcPx": 81494,
+ "cronStage": "WAIT_TAP",
+ "shadowStage": "WAIT_TAP",
+ "openTrade": "no setup",
  "ladderR": "+4.73R",
  "ratchetR": "+6.10R",
  "daily": "1W / 0L",
- "xrpPx": 1.30395,
- "xrpEstPnl": "-$444 est",
+ "xrpPx": 1.30755,
+ "xrpEstPnl": "-$417 est",
  "recentTrades": [
   "10/16 long @ 81,737 \u00b7 +0.08R / +0.08R",
   "10/15 short @ 82,292 \u00b7 +3.35R / +4.32R",
@@ -62,7 +62,7 @@
  },
  "live": {
   "equity": 28.7,
-  "armed": true,
+  "armed": false,
   "hasPosition": false
  }
 }
