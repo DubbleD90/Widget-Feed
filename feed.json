@@ -1,5 +1,5 @@
 {
- "btcPx": 81486,
+ "btcPx": 81513,
  "cronStage": "WAIT_BOS",
  "shadowStage": "WAIT_BOS",
  "openTrade": "setup: long @ 81,657",
@@ -62,7 +62,7 @@
  },
  "live": {
   "equity": 28.7,
-  "armed": false,
+  "armed": true,
   "hasPosition": false
  }
 }
